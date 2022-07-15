@@ -1,5 +1,5 @@
 # TRNG
-Random Generator python script based on `I-Te Chen “Random Numbers Generated from Audio and Video Sources”, Mathematical Problems in Engineering (Volume 2013, Article ID 285373`.
+Random Generator python program based on `I-Te Chen “Random Numbers Generated from Audio and Video Sources”, Mathematical Problems in Engineering (Volume 2013, Article ID 285373`.
 
 
 Project consists of: 
